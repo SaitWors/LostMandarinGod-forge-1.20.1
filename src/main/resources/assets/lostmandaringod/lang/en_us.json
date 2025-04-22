@@ -1,0 +1,37 @@
+{
+  "item.lostmandaringod.mandarin": "Mandarin",
+  "item.lostmandaringod.mandarin_segment": "Mandarin Segment",
+
+  "item.lostmandaringod.metal_detector": "Metal Detector",
+  "block.lostmandaringod.sound_block": "Sound Block",
+
+  "item.lostmandaringod.raw_lost_crystal": "Raw Lost Crystal",
+  "item.lostmandaringod.lost_crystal": "Lost Crystal",
+
+  "block.lostmandaringod.mandarin_box": "Mandarin Box",
+  "block.lostmandaringod.raw_lost_crystal_block": "Raw Lost Crystal Block",
+  "block.lostmandaringod.lost_crystal_block": "Lost Crystal Block",
+
+  "block.lostmandaringod.lost_crystal_ore": "Lost Crystal Ore",
+  "block.lostmandaringod.deepslate_lost_crystal_ore": "Deepslate Lost Crystal Ore",
+  "block.lostmandaringod.nether_lost_crystal_ore": "Nether Lost Crystal Ore",
+  "block.lostmandaringod.end_stone_lost_crystal_ore": "Endstone Lost Crystal Ore",
+
+  "item.lostmandaringod.lost_coal": "Lost Coal",
+
+  "block.lostmandaringod.lost_crystal_stairs": "Lost Crystal Stairs",
+  "block.lostmandaringod.lost_crystal_slab": "Lost Crystal Slab",
+  "block.lostmandaringod.lost_crystal_button": "Lost Crystal Button",
+  "block.lostmandaringod.lost_crystal_pressure_plate": "Lost Crystal Pressure Plate",
+  "block.lostmandaringod.lost_crystal_fence": "Lost Crystal Fence",
+  "block.lostmandaringod.lost_crystal_fence_gate": "Lost Crystal Fence Gate",
+  "block.lostmandaringod.lost_crystal_wall": "Lost Crystal Wall",
+  "block.lostmandaringod.lost_crystal_door": "Lost Crystal Door",
+  "block.lostmandaringod.lost_crystal_trapdoor": "Lost Crystal Trapdoor",
+
+
+  "tooltip.lostmandaringod.metal_detector.tooltip": "Finds valuables underground!",
+
+
+  "creativetab.lmg_tab": "Mandarin LMG Tab"
+}
