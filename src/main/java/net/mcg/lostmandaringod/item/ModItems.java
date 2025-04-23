@@ -25,6 +25,8 @@ public class ModItems {
 
     public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector",
             () -> new MetalDetectorItem(new Item.Properties().durability(100)));
+    public static final RegistryObject<Item> LOST_CRYSTAL_STAFF = ITEMS.register("lost_crystal_staff",
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     public static final RegistryObject<Item> LOST_COAL = ITEMS.register("lost_coal",
             () -> new FuelItem(new Item.Properties(), 6400));

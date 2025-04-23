@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "lostmandaringod:item/lost_crystal_staff"
+  }
+}
