@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "lostmandaringod:block/lost_crystal_block"
+  }
+}

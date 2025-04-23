@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "lost_crystal",
+  "ingredient": {
+    "item": "lostmandaringod:deepslate_lost_crystal_ore"
+  },
+  "result": "lostmandaringod:lost_crystal"
+}

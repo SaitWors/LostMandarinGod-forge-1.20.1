@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "lostmandaringod:block/lost_crystal_slab"
+    },
+    "type=double": {
+      "model": "lostmandaringod:block/lost_crystal_block"
+    },
+    "type=top": {
+      "model": "lostmandaringod:block/lost_crystal_slab_top"
+    }
+  }
+}

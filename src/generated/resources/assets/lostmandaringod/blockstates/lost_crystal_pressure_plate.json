@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "lostmandaringod:block/lost_crystal_pressure_plate"
+    },
+    "powered=true": {
+      "model": "lostmandaringod:block/lost_crystal_pressure_plate_down"
+    }
+  }
+}

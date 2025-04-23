@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "lostmandaringod:block/lost_crystal_block"
+  }
+}

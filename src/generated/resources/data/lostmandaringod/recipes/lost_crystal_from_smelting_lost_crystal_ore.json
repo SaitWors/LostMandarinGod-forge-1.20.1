@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "lost_crystal",
+  "ingredient": {
+    "item": "lostmandaringod:lost_crystal_ore"
+  },
+  "result": "lostmandaringod:lost_crystal"
+}

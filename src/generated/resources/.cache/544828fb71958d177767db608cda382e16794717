@@ -1,0 +1,9 @@
+// 1.20.1	2025-04-17T22:20:18.145432	Tags for minecraft:block mod id lostmandaringod
+9f6b79cbdf4f5814b6c848363d428d23b90a68f3 data/lostmandaringod/tags/blocks/metal_detector_valuables.json
+5117db3b7513d967e6a3518e8424b30c72b8a1c3 data/minecraft/tags/blocks/fences.json
+6f0d93335b33f001e8982c712372681482d457e1 data/minecraft/tags/blocks/fence_gates.json
+0d71c9849ac50c0c00747561fb89c57cdd50275e data/minecraft/tags/blocks/mineable/pickaxe.json
+f9d9dbe1c9ced941ad74ffd5dba98d19505cd02d data/minecraft/tags/blocks/needs_diamond_tool.json
+9c0dc0b9324b174c26fe881f721cf1f0cb8e44e4 data/minecraft/tags/blocks/needs_iron_tool.json
+f5b8c833557d89c3c0a38da60e29e2dbb31b90b9 data/minecraft/tags/blocks/needs_stone_tool.json
+841d6ecf8086890840656844f8bc5967c427c24d data/minecraft/tags/blocks/walls.json

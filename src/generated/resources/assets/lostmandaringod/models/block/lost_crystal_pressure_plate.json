@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pressure_plate_up",
+  "textures": {
+    "texture": "lostmandaringod:block/lost_crystal_block"
+  }
+}
